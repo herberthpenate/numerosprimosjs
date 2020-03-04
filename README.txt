@@ -1,0 +1,1 @@
+Presionar el botón que se encuentra en archivo index.html para generar los primeros 10 números primos.
